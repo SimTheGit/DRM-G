@@ -1,0 +1,13 @@
+<table border="12">
+		<tbody><tr>
+			<td>Ime</td><!--KOMENTAR-->
+			<td>Priimek</td>
+			<td>Položaj</td>
+          </tr>
+          <tr>
+			<td>Ime</td><!--KOMENTAR-->
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Austro-hungarian_coat_of_arms_1914.svg/559px-Austro-hungarian_coat_of_arms_1914.svg.png?20250522125057" width="50%" alt?"besedilo,="" ki="" se="" pojavi,="" če="" ni="" slike."="" align="centre">
+            </td>
+			<td>Položaj</td>
+          </tr>
+	</tbody></table>
